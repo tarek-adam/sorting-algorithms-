@@ -1,4 +1,4 @@
-from sorting import SortingAlgorithms
+from sorting_T import SortingAlgorithms
 
 def get_user_input():
     user_input = input("Enter a list of numbers separated by spaces: ")
