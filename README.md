@@ -48,4 +48,4 @@ For inquiries or further information, please contact:
 - Authomani: athoumani.abdou-raouf@laplateforme.io
 - Tarek: tarek.adam@laplateforme.io
 ## Acknowledgments
-We would like to acknowledge the guidance and support provided by Mrs Aicia CORDIAL
+We would like to acknowledge the guidance and support provided by Mrs Alicia CORDIAL alicia.cordial.pro@laplateforme.io
